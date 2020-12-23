@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Introduction
 
-👋 Hi! This is Winter (Pronounciation: /'dɛlt.n̩/).
+👋 Hi! This is Winter.
 
 Feel Free to Contact Me through E-mail or Twitter.
 
