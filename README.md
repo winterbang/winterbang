@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **winterbang/winterbang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Introduction
+
+👋 Hi! This is Winter (Pronounciation: /'dɛlt.n̩/).
+
+Feel Free to Contact Me through E-mail or Twitter.
+
+- [Blog](https://blog.zhchsh.zyz)
+- [E-mail](mailto:zwtao90@gmail.com)
