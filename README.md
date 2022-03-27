@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 Feel Free to Contact Me through E-mail or Twitter.
 
-- [Blog](https://blog.zhchsh.zyz)
+- [Blog](http://blog.zhchsh.zyz)
 - [E-mail](mailto:zwtao90@gmail.com)
